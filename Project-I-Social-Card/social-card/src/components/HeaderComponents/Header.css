@@ -64,13 +64,15 @@ table {
 }
 
 .icon{
-    height: 100px;
-    width: 100px;
+    float: left;
+    height: 48px;
+    width: 48px;
 }
 
 .name{
 padding-right: 20px;
 font-weight: bold;
+margin: 10px;
 }
 
 .tag{
@@ -81,4 +83,21 @@ font-weight: bold;
 .date{
     padding-right: 20px;
     color: grey;
+}
+
+/* .bigCont{
+    margin-left: 20px;
+    border: 1px solid red;
+    max-width: 500px;
+
+    
+} */
+.max{
+    margin-left: 58px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.testbord{
+    border: 1px solid red;
 }

@@ -3,9 +3,9 @@ import './Card.css';
 
 function CardContent(){
 return    <div>
-<h3>Get Started with React</h3>
-<p>React Makes it painless to create ineractive UIs. Design Simple views for each state in your application.</p>
-<p>reactjs.org</p>
+<h3 class='title'>Get Started with React</h3>
+<p class='text'>React Makes it painless to create ineractive UIs. Design Simple views for each state in your application.</p>
+<p class='link'>reactjs.org</p>
 </div>
 }
 

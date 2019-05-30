@@ -5,12 +5,12 @@ import HeaderTitle from './HeaderTitle';
 import ImageThumb from './ImageThumbnail';
 
 function Header(){
-        return <div class='container'>
-            <div class='flexit'>
+        return <div>
             <ImageThumb />
+            <div>
             <HeaderTitle />
-            </div>
             <HeaderContent />
+            </div>
 
     </div>
 }

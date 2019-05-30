@@ -3,3 +3,9 @@ body {
   padding: 0.4rem;
   font-family: sans-serif;
 }
+
+.post {
+  width: 500px;
+  margin-left: 60px;
+  padding: 12px;
+}

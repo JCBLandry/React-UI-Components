@@ -4,7 +4,7 @@ import CardBanner from './CardBanner';
 import CardContent from './CardContent'
 
 function HeaderContainer(){
-    return <div class="container">
+    return <div class='cardCont'>
         <CardBanner />
         <CardContent />
     </div>
