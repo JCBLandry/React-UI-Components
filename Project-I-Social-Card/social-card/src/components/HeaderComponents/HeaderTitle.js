@@ -2,9 +2,10 @@ import React from 'react';
 import './Header.css';
 
 function HeaderTitle(){
-    return <div><h1>Lambda School</h1>
-    <h3>@LambdaSchool</h3>
-    <h4>26 jan</h4>
+    return <div class="flexit">
+    <span class='name'>Lambda School</span>
+    <span class='tag'>@LambdaSchool</span>
+    <span class='date'>26 jan</span>
     </div>
 }
 

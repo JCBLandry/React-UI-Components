@@ -5,9 +5,11 @@ import HeaderTitle from './HeaderTitle';
 import ImageThumb from './ImageThumbnail';
 
 function Header(){
-        return <div class="container">
+        return <div class='container'>
+            <div class='flexit'>
             <ImageThumb />
             <HeaderTitle />
+            </div>
             <HeaderContent />
 
     </div>
