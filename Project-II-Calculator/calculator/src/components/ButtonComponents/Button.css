@@ -1,0 +1,33 @@
+.buttCont {
+    height: 100px;
+    display: flex;
+  }
+  
+  .numButton {
+    width: 100px;
+    border: 1px solid white;
+  }
+  
+  .bigBut {
+    width: 300px;
+    border: 1px solid white;
+  }
+  
+  .actionBut {
+    background: darkred;
+    color: white;
+    text-align: center;
+    height: 100px;
+    font-size: 50px;
+  }
+  .numBut {
+    text-align: center;
+    height: 100px;
+    font-size: 50px;
+  }
+  
+  .bigText {
+    text-align: center;
+    height: 100px;
+    font-size: 50px;
+  }
